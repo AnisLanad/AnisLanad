@@ -1,6 +1,6 @@
 # Anis Lanad
 
-Développeur mobile et back-end basé à Alger. Je conçois et développe des applications de bout en bout, de l'app mobile (Flutter, Kotlin) au back-end et aux API (Django, Firebase), y compris des systèmes complexes : architectures multi-modules, gestion des rôles et permissions, intégrations REST et Firebase, déploiement conteneurisé avec Docker.
+Développeur mobile et back-end. Je conçois et développe des applications de bout en bout, de l'app mobile (Flutter, Kotlin) au back-end et aux API (Django, Firebase), y compris des systèmes complexes : architectures multi-modules, gestion des rôles et permissions, intégrations REST et Firebase, déploiement conteneurisé avec Docker.
 
 ## Stack
 
